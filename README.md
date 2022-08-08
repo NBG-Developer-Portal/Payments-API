@@ -1,4 +1,4 @@
-![Screenshot](https://microsites.nbg.gr/api.gateway/publicportal/sites/default/files/2018-11/black_logo.jpg) 
+![Screenshot](https://developer.nbg.gr/api.gateway/publicportal/sites/default/files/2018-11/black_logo.jpg) 
 
 # Payments API Postman Collections
 
